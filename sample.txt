@@ -1,0 +1,17 @@
+101 Raju     Rastogi    Manager      37000
+102 Sham     Mohan      Cashier      32000
+103 Baburao  Apte       Associate    25000
+104 Paul     Philip     Accountant   45000
+105 Alex     Watt       Associate    35000
+106 Rick     Watt       Manager      65000
+107 Leena    Jhonson    Lead         25000
+108 John     Paul       Manager      75000
+109 Alex     Watt       Probation    40000
+110 Priya    Sharma     Developer    55000
+111 Amit     Verma      Tester       48000
+112 Neha     Gupta      HR           52000
+113 Rohit    Singh      DevOps       70000
+114 Pooja    Jain       Analyst      60000
+115 Karan    Mehta      Architect    95000
+
+
