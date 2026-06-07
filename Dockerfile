@@ -1,5 +1,5 @@
 #add rules
 FROM nginx
 WORKDIR /app
-copy index.html /usr/share/nginx/html
-expose 80
+COPY index.html /usr/share/nginx/html
+EXPOSE 80
